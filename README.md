@@ -12,13 +12,13 @@ Dash  <br />
 Gunicorn <br />
 ## pre-requist:
 ```bash
-pip install dash flask gunicorn <br />
-pip install plotly==4.12.0 <br />
+pip install dash flask gunicorn 
+pip install plotly==4.12.0 
 ```
 # Steps:
-```
-python Dashboard.py <br />
-gunicorn Dashboard:server -b :8000 : it will run in port 8000 (you can choose your port) <br />
+``` bash
+python Dashboard.py 
+gunicorn Dashboard:server -b :8000 : it will run in port 8000 (you can choose your port) 
 ```
 use you prefered navigator and tap : public-ip:8000 <br />
 ![alt text](dash.png)
