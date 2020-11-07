@@ -1,0 +1,7 @@
+[2020-10-27 10:45:53 +0000] [15985] [INFO] Starting gunicorn 20.0.4
+[2020-10-27 10:45:53 +0000] [15985] [INFO] Listening at: http://0.0.0.0:8000 (15985)
+[2020-10-27 10:45:53 +0000] [15985] [INFO] Using worker: sync
+[2020-10-27 10:45:53 +0000] [15988] [INFO] Booting worker with pid: 15988
+[2020-10-27 10:45:55 +0000] [15985] [INFO] Handling signal: int
+[2020-10-27 10:45:55 +0000] [15988] [INFO] Worker exiting (pid: 15988)
+[2020-10-27 10:45:55 +0000] [15985] [INFO] Shutting down: Master
